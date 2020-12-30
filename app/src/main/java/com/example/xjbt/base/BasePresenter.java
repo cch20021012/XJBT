@@ -2,8 +2,10 @@ package com.example.xjbt.base;
 
 
 
-import com.example.verynb.interfaces.IBasePresenter;
-import com.example.verynb.interfaces.IBaseView;
+
+
+import com.example.xjbt.interfaces.IBasePresenter;
+import com.example.xjbt.interfaces.IBaseView;
 
 import java.lang.ref.WeakReference;
 

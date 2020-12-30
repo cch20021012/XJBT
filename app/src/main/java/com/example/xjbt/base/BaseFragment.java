@@ -11,8 +11,9 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import com.example.verynb.interfaces.IBasePresenter;
-import com.example.verynb.interfaces.IBaseView;
+
+import com.example.xjbt.interfaces.IBasePresenter;
+import com.example.xjbt.interfaces.IBaseView;
 
 import butterknife.ButterKnife;
 import butterknife.Unbinder;

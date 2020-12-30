@@ -2,7 +2,9 @@ package com.example.xjbt.base;
 
 
 
-import com.example.verynb.interfaces.IBaseModel;
+
+
+import com.example.xjbt.interfaces.IBaseModel;
 
 import io.reactivex.disposables.CompositeDisposable;
 import io.reactivex.disposables.Disposable;

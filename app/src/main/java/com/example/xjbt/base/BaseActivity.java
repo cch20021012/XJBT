@@ -8,6 +8,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.example.xjbt.interfaces.IBasePresenter;
 import com.example.xjbt.interfaces.IBaseView;
 
+import butterknife.ButterKnife;
+import butterknife.Unbinder;
+
 
 public abstract class BaseActivity<P extends IBasePresenter> extends AppCompatActivity implements IBaseView {
 
