@@ -29,6 +29,11 @@ public class IssueActivity extends AppCompatActivity {
         initView();
         listener();
         initData();
+        init();
+    }
+
+    private void init() {
+
     }
 
     private void initData() {
