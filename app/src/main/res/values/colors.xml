@@ -3,4 +3,12 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="yellow">#EDDA2F</color>
+    <color name="black">#000000</color>
+    <color name="price">#B31212</color>
+    <color name="orange">#FF9800</color>
+    <color name="green">#4DAA51</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mibai">#F3ECB4</color>
 </resources>
