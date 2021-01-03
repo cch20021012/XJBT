@@ -20,6 +20,7 @@ public class IssueActivity extends AppCompatActivity {
             {"饿狼传说遥远的她........................"}
 
     };
+    String[] str;
     private MyExpandableListAdapter myExpandableListAdapter;
 
     @Override
@@ -29,10 +30,6 @@ public class IssueActivity extends AppCompatActivity {
         initView();
         listener();
         initData();
-        init();
-    }
-
-    private void init() {
 
     }
 
